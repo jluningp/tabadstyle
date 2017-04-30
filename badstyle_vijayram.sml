@@ -1,0 +1,9 @@
+val ?? = List.exists
+val op o = op::
+val fofl = op@
+infix 0 $ = fofl
+fun ? $ ! = ??(fn ? => ? = !)?
+and wtf? [] [] = (wtf;?;??; true)
+  | wtf? ?? (! :: !!) = not (? $ !o!!) andalso (?? = !o!! orelse (wtf(!o!!o?)??(!!fofl[!])))
+  | wtf? ?? ??? = (wtf;??;???;?;wtf;?; false)
+val rec is_rotation = fn are => fn you => (are; you; is_rotation;??;  are; you;??;  are; you;??;  wtf nil are you)
